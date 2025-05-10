@@ -27,6 +27,7 @@ export default function Home() {
 
   return (
     <div className="max-w-xl mx-auto p-4">
+      <h3>In temp branch</h3>
       <h1 className="text-2xl font-bold mb-4">📦 Inventory Management</h1>
 
       {/* Form to Add Item */}
